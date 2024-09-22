@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hello, nice to meet you, I'm Igor Fonseca.
 
-<!--
-**igormatheusf/igormatheusf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About
+Act as Web Developer. I've been studying at [Rocketseat](https://rocketseat.com.br) since March 2024.
 
-Here are some ideas to get you started:
+### Current stack 
+- Main language: `JavaScript`
+- Backend: `Nodejs`
+- Frontend: `Reactjs`, `HTML`, `CSS`
+- Layout Design: `Figma` 
+- Version code Control: `Git a Github`
+- Tools : `VsCode`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Contacts
+- Email: igorm.fonseca@hotmail.com
+- Linkedin : https://linkedin.com/in/igormatheus
+
