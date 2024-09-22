@@ -1,7 +1,7 @@
 ## Hello, nice to meet you, I'm Igor Fonseca. 👋
 
 ### About
-Act as Web Developer. I've been studying at [Rocketseat](https://rocketseat.com.br) since March 2024.
+Act as Web Developer. I've been studying about full stack development at [Rocketseat](https://rocketseat.com.br) since March 2024.
 
 ### Current stacks
 - Main language: `JavaScript`
