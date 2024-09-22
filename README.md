@@ -3,7 +3,7 @@
 ### About
 Act as Web Developer. I've been studying at [Rocketseat](https://rocketseat.com.br) since March 2024.
 
-### Current stack 
+### Current stacks
 - Main language: `JavaScript`
 - Backend: `Nodejs`
 - Frontend: `Reactjs`, `HTML`, `CSS`
