@@ -5,7 +5,7 @@ I act as Web Developer. I've been studying about full stack development since Ma
 
 ### Current stacks
 - Main language: `JavaScript`
-- Backend: `Nodejs`
+- Backend: `Nodejs`, `SQL`
 - Frontend: `Reactjs`, `HTML`, `CSS`
 - Layout Design: `Figma` 
 - Version code Control: `Git a Github`
